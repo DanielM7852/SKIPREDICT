@@ -1,0 +1,7 @@
+2025-08-12 23:57:02,012 - INFO - Starting Advanced Skip Analysis...
+2025-08-12 23:57:02,013 - INFO - Fetching premium user data...
+2025-08-12 23:57:02,498 - ERROR - HTTP Error for GET to https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks with Params: {'limit': 100, 'offset': 0, 'fields': None, 'market': None, 'additional_types': 'track'} returned 404 due to Resource not found
+2025-08-12 23:57:02,498 - ERROR - Data collection error: http status: 404, code: -1 - https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks?limit=100&offset=0&additional_types=track:
+ Resource not found, reason: None
+2025-08-12 23:57:02,500 - ERROR - Execution failed: http status: 404, code: -1 - https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks?limit=100&offset=0&additional_types=track:
+ Resource not found, reason: None
