@@ -12,4 +12,4 @@ This skip predictor combines music analytics with machine learning principles to
 👾Hosting: PythonAnywhere
 👾Features: Audio processing, predictive algorithms, responsive design
 
-This project was a not only super fun to create, but it was a learning exercise in full-stack development, API integration, and creating meaningful user experiences around music data. It demonstrates how we can use available data to build predictive models that reflect real-world listening behaviors.
+This project was not only super fun to create, but it was a learning exercise in full-stack development, API integration, and creating meaningful user experiences around music data. It demonstrates how we can use available data to build predictive models that reflect real-world listening behaviors.
